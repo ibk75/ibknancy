@@ -1,0 +1,20 @@
+.top-container{
+width:200px;
+height:200px;
+background-color:aliceblue;
+border:20px;
+border-color:black;
+padding:20px;
+}
+.middle-container{
+    width:200px;
+    height:200px;
+    background-color:aquamarine;
+    margin-left:240px;
+}
+.bottom-container{
+    background-color: bisque;
+    width:200px;
+    height:200px;
+    margin-left:440px;
+}
